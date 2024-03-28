@@ -1,11 +1,10 @@
 <script setup>
-const theme = "shopus";
 </script>
 
 <template>
   <div>
     <h1>Products</h1>
-    <component is="ShopusProductWrapper" />
+    <ProductWrapper />
   </div>
 </template>
 

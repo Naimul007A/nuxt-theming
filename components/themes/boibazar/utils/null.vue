@@ -3,10 +3,7 @@
 </script>
 
 <template>
-  <div>hello</div>
-  <thems-default-header />
-  <slot />
-    <thems-default-footer />
+  <div>this is from boibazar null</div>
 </template>
 
 <style scoped>

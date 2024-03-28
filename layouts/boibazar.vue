@@ -3,10 +3,10 @@
 </script>
 
 <template>
-  <div>hello</div>
-  <thems-default-header />
+  <div>hello {{ useCookie("theme") }}</div>
+  <themes-boibazar-header />
   <slot />
-    <thems-default-footer />
+  <themes-boibazar-footer />
 </template>
 
 <style scoped>

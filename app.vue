@@ -1,8 +1,10 @@
 <script setup lang="ts">
-const theme = "shopus";
+const theme = useCookie("theme");
+theme.value = "default";
+const mytheme = theme.value;
 </script>
 <template>
-  <NuxtLayout :name="theme">
+  <NuxtLayout :name="mytheme">
     <NuxtPage />
   </NuxtLayout>
 </template>
