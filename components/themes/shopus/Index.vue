@@ -3,7 +3,8 @@
 </script>
 
 <template>
-  <div>this is from shopus product wrapper</div>
+    <h1>Home</h1>
+    <div>this is from shopus Home</div>
 </template>
 
 <style scoped>

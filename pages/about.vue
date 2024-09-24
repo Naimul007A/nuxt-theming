@@ -1,9 +1,9 @@
 <script lang="ts" setup></script>
 
 <template>
-  <div>
-    Page: about
-  </div>
+    <div>
+        <PagesAbout />
+    </div>
 </template>
 
 <style scoped></style>

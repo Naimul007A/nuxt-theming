@@ -2,10 +2,9 @@
 </script>
 
 <template>
-  <div>
-    <h1>Products</h1>
-    <ProductWrapper />
-  </div>
+    <div>
+        <PagesProducts />
+    </div>
 </template>
 
 <style scoped>

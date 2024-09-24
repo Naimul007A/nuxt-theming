@@ -3,7 +3,8 @@
 </script>
 
 <template>
-  <div>shop us header</div>
+    <h1>About</h1>
+    <div>this is from shopus About page</div>
 </template>
 
 <style scoped>

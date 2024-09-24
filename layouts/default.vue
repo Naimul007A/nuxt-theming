@@ -3,10 +3,10 @@
 </script>
 
 <template>
-  <div>hello</div>
-  <thems-default-header />
+  <div>hello Default</div>
+  <themes-default-utils-header />
   <slot />
-    <thems-default-footer />
+    <themes-default-utils-footer />
 </template>
 
 <style scoped>

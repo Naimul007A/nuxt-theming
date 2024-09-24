@@ -3,7 +3,9 @@
 </script>
 
 <template>
-  <div>hello this is from vue</div>
+    <div>
+        <Pages />
+    </div>
 </template>
 
 <style scoped>

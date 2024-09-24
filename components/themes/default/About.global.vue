@@ -3,8 +3,8 @@
 </script>
 
 <template>
-  <div>
-    this is from default header</div>
+    <h1>About</h1>
+    <div>this is from default About</div>
 </template>
 
 <style scoped>

@@ -1,13 +1,11 @@
 <script setup>
-// setup script
-const theme = "shopus";
 </script>
 
 <template>
-  <div>shop us</div>
-  <shopus-header />
-  <slot />
-  <shopus-footer />
+    <div>Hello shopus</div>
+    <themes-shopus-utils-header />
+    <slot />
+    <themes-shopus-utils-footer />
 </template>
 
 <style scoped>

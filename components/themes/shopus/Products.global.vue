@@ -3,9 +3,8 @@
 </script>
 
 <template>
-  <div>this is from boibazar product wrapper</div>
-  <ThemesBoibazarUtilsNull />
-  
+    <h1>Products</h1>
+    <div>this is from shopus Products</div>
 </template>
 
 <style scoped>
